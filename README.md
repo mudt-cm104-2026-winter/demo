@@ -29,6 +29,7 @@ No real names: this repository is public. -->
 
 | GitHub | Role |
 |---|---|
+| mmmudt | lead |
 
 ## How we work
 
